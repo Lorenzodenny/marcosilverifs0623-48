@@ -1,0 +1,15 @@
+.ao{
+  border-radius: 300px;
+}
+
+.augh{
+  width: 20%;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.francescoMissoriniLeccaPalle{
+  background-color: rgb(149, 149, 149);
+  margin: 10% 0;
+  padding-top: 5%;
+}
